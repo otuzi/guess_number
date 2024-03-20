@@ -1,0 +1,6 @@
+/venv/
+/.idea/
+practicum.py
+requirements.txt
+pytest.ini
+test_program.py
